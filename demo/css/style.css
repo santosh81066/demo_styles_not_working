@@ -1,0 +1,6 @@
+body{
+    background-color: aqua !important;
+}
+.navbar-nav > li > a {
+    color: #ffffff;
+}
